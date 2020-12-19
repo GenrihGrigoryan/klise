@@ -33,7 +33,7 @@ fb_appid:
 collections:
   posts:
     output: true
-
+    permalink: /notes/:title
 # Markdown settings
 markdown: kramdown
 highlighter: rouge
